@@ -1,1 +1,1 @@
-# auto-scaling-demo
+# auto_scaling_demo
